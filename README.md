@@ -81,7 +81,7 @@ Status : Verified Successfully
 
 ## Demo Video
 
-https://drive.google.com/file/d/1rTuxGEcDlZsFOULA0yZBo-gYmupdVAiU/view?usp=drivesdk
+https://drive.google.com/file/d/1iGuCgJwbnVV4vFk2KBK4579V8KtAh6eo/view?usp=drivesdk
 
 ## Applications
 
